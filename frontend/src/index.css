@@ -15,7 +15,9 @@ h5,
 h6 {
   font-family: "PT Serif", serif;
 }
-
+a {
+  text-decoration: none !important;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
